@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.jsu.mcis.TicTacToeTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2015-01-26T17:26:09" hostname="JoshHowell-PC" time="0.094">
+  <properties/>
+  <testcase name="testBoardIsEmpty" classname="edu.jsu.mcis.TicTacToeTest" time="0.0"/>
+  <testcase name="testUserEntry" classname="edu.jsu.mcis.TicTacToeTest" time="0.094"/>
+  <system-out><![CDATA[Enter the row.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
